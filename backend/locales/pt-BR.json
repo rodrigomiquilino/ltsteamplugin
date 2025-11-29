@@ -134,6 +134,8 @@
     "settings.saving": "Salvando...",
     "settings.title": "LuaTools · Configurações",
     "settings.unsaved": "Alterações não salvas",
-    "{fix} applied successfully!": "{fix} aplicado com sucesso!"
+    "{fix} applied successfully!": "{fix} aplicado com sucesso!",
+    "Checking...": "Verificando...",
+    "Not Available": "Não Disponível"
   }
 }
